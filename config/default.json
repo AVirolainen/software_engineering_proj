@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb+srv://dbMain:yjkljh4545@cluster0.xlgfa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "milrcelona"
+}
